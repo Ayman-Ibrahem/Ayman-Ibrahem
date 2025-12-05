@@ -13,7 +13,8 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
 I am a Software Engineer skilled in React, JS, Python, HTML, CSS, and more. <br/>
-
+I have a degree in education, specializing in mathematics. <br/>
+I have a certificate in Human Resources and Computer Science from [CAME](https://www.came-ecademy.online/)
 
 
 
