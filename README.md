@@ -36,7 +36,7 @@ I have a certificate in Human Resources and Computer Science from [CAME](https:/
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
